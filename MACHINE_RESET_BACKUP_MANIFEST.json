@@ -1,0 +1,20 @@
+{
+  "purpose": "Current source snapshot before machine reset; original Git histories, ignored data, and withheld files are in the external-drive archive.",
+  "source": "/Users/davidsnir/apps/mpmt-v2",
+  "nested_repositories_flattened": [
+    {
+      "path": ".",
+      "branch": "main",
+      "head": "dfaed220f9b3b911ecc6901d080a91973225f229",
+      "refs": [
+        [
+          "refs/heads/main",
+          "dfaed220f9b3b911ecc6901d080a91973225f229"
+        ]
+      ],
+      "stash_commits": []
+    }
+  ],
+  "withheld_from_github": [],
+  "created": "2026-10-26T14:09:04+02:00"
+}
